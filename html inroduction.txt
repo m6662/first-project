@@ -72,3 +72,4 @@ Normal Elements:
         <b>
         </b>
 this is all information about html
+later we will learn cascading style sheet
